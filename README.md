@@ -4,7 +4,7 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?text=HyunJun%World!&type=rect&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?text=Hyun-Jun%World!&type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 <!--내용 부분-->
