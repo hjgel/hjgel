@@ -5,8 +5,8 @@
 <!--타이틀 부분-->
 
 <!--내용 부분-->
-<h3 align="center">💻 BackEnd 💻</h3>
-<div align="center">
+<h3>💻 BackEnd 💻</h3>
+<div>
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=Django&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
 </div>
