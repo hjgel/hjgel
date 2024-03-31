@@ -44,7 +44,7 @@
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  [<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
 <br>
@@ -55,6 +55,7 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
+- Link - 
 ### [<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
 
 ----------
