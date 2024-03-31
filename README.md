@@ -2,7 +2,7 @@
 <!--
 **hjgel/hjgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?height=300&text=HyunJun%20World!&desc=Inha Technical College%20Department%20of%20Computer%20Science%20and%20Engineering%20birthday:%202000.01.17&type=rect&color=gradient)
+![header](https://capsule-render.vercel.app/api?height=300&text=HyunJun%20World!&desc=Inha%20Technical%20College%20Department%20of%20Computer%20Science%20and%20Engineering%20birthday:%202000.01.17&type=rect&color=gradient)
 
 
 
