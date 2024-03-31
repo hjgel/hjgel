@@ -55,7 +55,7 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-### [Hyunjun notion](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
+### [<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
 
 ----------
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hjgel&show_icons=true&theme=tokyonight)
