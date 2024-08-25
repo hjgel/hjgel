@@ -11,6 +11,7 @@
 <div>
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
   <!--<img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp-->
+  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white" />&nbsp
 </div>
 
 <h3>💻 FrontEnd 💻</h3>
@@ -23,11 +24,13 @@
 
 <h3>💻 Languege 💻</h3>
 <div>
+  <img src="https://img.shields.io/badge/DART-0175C26?style=for-the-badge&logo=Dart&logoColor=sodomy">&nbsp
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=orange&color=3670A0">&nbsp
   <img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white&color=150458"/>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/C%20SHARP-%23512BD4?style=for-the-badge&logo=C%23&logoColor=white&color=green" />&nbsp
+  
 </div>
 
 <br>
