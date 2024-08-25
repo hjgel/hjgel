@@ -11,7 +11,7 @@
 <div>
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
   <!--<img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp-->
-  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&amp;logoColor=white" />&nbsp
 </div>
 
 <h3>💻 FrontEnd 💻</h3>
