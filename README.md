@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
   <!--<img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp-->
   <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&amp;logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SPRINGBoot-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp
 </div>
 
 <h3>💻 FrontEnd 💻</h3>
@@ -31,14 +32,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/C%20SHARP-%23512BD4?style=for-the-badge&logo=C%23&logoColor=white&color=green" />&nbsp
   
-</div>
-
-<br>
-
-<h3>💻 Studying 💻</h3>
-<div>
- <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
- <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp
 </div>
 
 <br>
