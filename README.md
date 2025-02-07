@@ -23,7 +23,7 @@
 
 <br>
 
-<h3>💻 Languege 💻</h3>
+<h3>💻 Language 💻</h3>
 <div>
   <img src="https://img.shields.io/badge/DART-%230175C2?style=for-the-badge&logo=dart&logoColor=white&color=navy">&nbsp
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp
