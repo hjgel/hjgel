@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=flat&logo=ApacheKafka&logoColor=white"> &nbsp
   <br>
-  DB : 
+  Database : 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
