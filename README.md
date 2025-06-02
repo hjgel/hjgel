@@ -13,16 +13,15 @@
 <!--내용 부분-->
 <h3>💻 BackEnd</h3>
 <div>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=Django&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
-  <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&amp;logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SPRINGBoot-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
 </div>
 
 <h3>🔐 Auth</h3>
 <div>
-  <img src="https://img.shields.io/badge/-Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp
 </div>
 
