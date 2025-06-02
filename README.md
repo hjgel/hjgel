@@ -21,7 +21,7 @@
 
 <h3>🔐 Auth</h3>
 <div>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=green&color=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Springsecurity&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp
 </div>
 
