@@ -13,14 +13,21 @@
 <!--내용 부분-->
 <h3>💻 BackEnd</h3>
 <div>
+  Back-end : 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=Django&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Springsecurity&logoColor=green&color=white" />&nbsp
+  <img src="https://img.shields.io/badge/JPA?style=flat&logo=JPA&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=flat&logo=ApacheKafka&logoColor=white"> &nbsp
+  <br>
+  DB : 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 </div>
 
 
