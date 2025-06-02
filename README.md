@@ -13,17 +13,24 @@
 <!--내용 부분-->
 <h3>💻 BackEnd</h3>
 <div>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=Django&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&amp;logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat\&logo=spring\&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SPRINGBoot-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
 </div>
 
 <h3>🔐 Auth</h3>
 <div>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat\&logo=springsecurity\&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp
+</div>
+
+<h3>☁️ DevOps & cloud</h3>
+<div>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 </div>
 
 
