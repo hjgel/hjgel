@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Springsecurity&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=ApacheKafka&logoColor=white"> &nbsp
 </div>
 
 
