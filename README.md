@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=Django&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&amp;logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/-Spring_Cloud-6DB33F?style=flat\&logo=spring\&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat\&logo=spring\&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SPRINGBoot-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
 </div>
 
 <h3>🔐 Auth</h3>
 <div>
-  <img src="https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat\&logo=springsecurity\&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat\&logo=springsecurity\&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp
 </div>
 
