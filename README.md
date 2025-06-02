@@ -33,7 +33,7 @@
 
 </div>
 
-<h3>☁️ DevOps & cloud</h3>
+<h3>☁️ DevOps & Cloud</h3>
 <div>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white">
