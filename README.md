@@ -5,19 +5,28 @@
 <!--타이틀 부분-->
 ## 👋 개발을 사랑하는 백엔드 개발자! 이현준입니다.
 
-> ✔ 문제해결중심의개발 - 단순히 동작하는 코드를 넘어서, 유지보수성과 확장성을 고려한 설계를 지향합니다.
-> ✔ 사용자경험(UX) 고려 – 백엔드 로직이 프론트엔드와 원활하게 연결될 수 있도록 API 최적화에 집중합니다.
+> ✔ 문제해결중심의개발 - 단순히 동작하는 코드를 넘어서, 유지보수성과 확장성을 고려한 설계를 지향합니다. <br>
+> ✔ 사용자경험(UX) 고려 – 백엔드 로직이 프론트엔드와 원활하게 연결될 수 있도록 API 최적화에 집중합니다. <br>
 > ✔ 지속적인학습과성장 – 새로운 기술과 패턴을 배우고 적용하는 것을 사랑합니다.
 
 
 <!--내용 부분-->
-<h3>💻 BackEnd 💻</h3>
+<h3>💻 BackEnd</h3>
 <div>
-  <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=flate&logo=Django&logoColor=green&color=white" />&nbsp
-  <!--<img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp-->
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&amp;logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SPRINGBoot-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp
+  <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=Django&logoColor=green&color=white" />&nbsp
+  <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&amp;logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/-Spring_Cloud-6DB33F?style=flat\&logo=spring\&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SPRINGBoot-%236DB33F?style=flat&logo=Spring&logoColor=green&color=white" />&nbsp
 </div>
+
+<h3>🔐 Auth</h3>
+<div>
+  <img src="https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat\&logo=springsecurity\&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp
+</div>
+
+
 
 <!-- 
 <h3>💻 FrontEnd 💻</h3>
@@ -28,7 +37,7 @@
 -->
 
 <br>
-
+<!--
 <h3>💻 Language 💻</h3>
 <div>
   <img src="https://img.shields.io/badge/DART-%230175C2?style=for-the-badge&logo=dart&logoColor=white&color=navy">&nbsp
